@@ -10,10 +10,14 @@ The usage instructions are pretty simple:
 	git clone https://github.com/priyampatel910-cpu/DVM-Backend
 	```
 2. Go to the project root. From there, run:
+   
+    Run these bash commands in order.
 	```
+ 	cd DVM-Backend/tasks
 	python manage.py runserver
 	```
-3. Open a browser and visit [127.0.0.1:8000](http://127.0.0.1:8000)
+
+4. Open a browser and visit [127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Q&A
 
